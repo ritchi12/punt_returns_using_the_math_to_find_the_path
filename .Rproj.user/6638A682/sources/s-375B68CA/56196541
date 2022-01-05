@@ -1,0 +1,24 @@
+{
+    "id": "56196541",
+    "path": "~/SFU-Statistics/Big_Data_Bowl_2022/github/Optimal Path/Code/pipeline_functions.R",
+    "project_path": "Optimal Path/Code/pipeline_functions.R",
+    "type": "r_source",
+    "hash": "1606743607",
+    "contents": "",
+    "dirty": false,
+    "created": 1641419594113.0,
+    "source_on_save": true,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "1003,9",
+        "scrollLine": "971"
+    },
+    "folds": "9|32|42|0|\n51|47|241|0|\n253|88|338|0|\n343|57|380|0|\n385|53|404|0|\n413|89|514|0|\n519|39|580|0|\n589|74|625|0|\n630|52|658|0|\n667|47|719|0|\n724|48|755|0|\n764|64|786|0|\n794|38|802|0|\n807|83|820|0|\n825|60|838|0|\n843|45|851|0|\n856|38|863|0|\n868|57|878|0|\n883|41|894|0|\n899|41|909|0|\n914|54|930|0|\n935|56|951|0|\n959|64|966|0|\n971|44|981|0|\n986|44|998|0|\n1003|48|1016|0|\n1021|41|1033|0|\n1038|57|1059|0|\n1069|117|1117|0|\n1123|117|1171|0|\n",
+    "lastKnownWriteTime": 1641420158,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1641420158803,
+    "read_only": false,
+    "read_only_alternatives": []
+}
