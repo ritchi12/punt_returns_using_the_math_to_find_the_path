@@ -8,7 +8,7 @@ Linkedin Profiles: \
 Robyn: https://www.linkedin.com/in/robyn-ritchie-513b491b9/ \
 Brendan: https://www.linkedin.com/in/brendan-kumagai/ \
 Ryker: https://www.linkedin.com/in/ryker-moreau/ \
-Elijah: https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/ \
+Elijah: https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/ 
 
 #References
 
