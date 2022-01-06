@@ -4,8 +4,11 @@
 ### Simon Fraser University Sports Analytics Group
 
 Robyn Ritchie, PhD Student | [Linkedin](https://www.linkedin.com/in/robyn-ritchie-513b491b9/)
+
 Brendan Kumagai, MSc Student | [Linkedin](https://www.linkedin.com/in/brendan-kumagai/) | Twitter: @[BrendanKumagai](https://twitter.com/BrendanKumagai)
+
 Ryker Moreau, MSc Student | [Linkedin](https://www.linkedin.com/in/ryker-moreau/) | Twitter: @[RMoreau18](https://twitter.com/RMoreau18)
+
 Elijah Cavan, MSc Student | [Linkedin](https://www.linkedin.com/in/ryker-moreau/)
 
 
