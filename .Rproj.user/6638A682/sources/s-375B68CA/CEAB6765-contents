@@ -12,9 +12,9 @@ for (libs in install.lib) {install.packages(libs, dependencies = TRUE)}
 sapply(load.libraries, require, character = TRUE)
 
 # Load punt returns from the tracking data
-punt_returns = read_csv("Optimal Path/Data/fulldata20.csv") %>% # Created in Data Standardization
-  bind_rows(read_csv("Optimal Path/Data/fulldata19.csv")) %>% # Created in Data Standardization
-  bind_rows(read_csv("Optimal Path/Data/fulldata18.csv")) %>% # Created in Data Standardization
+punt_returns = read_csv("Data Standardization/Data/fulldata20.csv") %>% # Created in Data Standardization folder
+  bind_rows(read_csv("Data Standardization/Data/fulldata19.csv")) %>% # Created in Data Standardization folder
+  bind_rows(read_csv("Data Standardization/Data/fulldata18.csv")) %>% # Created in Data Standardization folder
   filter(specialTeamsPlayType == "Punt") %>% 
   filter(specialTeamsResult == "Return") %>% 
   mutate(available_dist = kickLength/(120-yardlineNumber)) %>%
