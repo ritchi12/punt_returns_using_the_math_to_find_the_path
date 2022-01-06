@@ -36,6 +36,12 @@ Figures from our paper can be found in the "Figures" folder.
 
 To view additional optimal path and convex hull animations for all 2020 touchdown plays, please see the "Optimal Path/Sample Plays" folder.
 
+
+## Acknowledgements
+
+We would like to thank Dr. Tim Swartz, Dr. Tom Loughin, Dr. Alexandre Leblanc, and Tyrel Stokes for taking the time to provide guiance and feedback on our work. We would also like to thank Michael Lopez, the National Football League, and Pro Football Focus for graciously organizing this competition and providing such detailed and interesting data to work with.
+
+
 ## Bibliography
 
 Aronov, Boris, Sariel Har-Peled, Christian Knauer, Yusu Wang, and Carola Wenk. “Fréchet Distance for Curves, Revisited” in Algorithms - ESA 2006. Azar, Yossi; Erlebach, Thomas; Kittler, Josef. Springer Berlin / Heidelberg (2006). 52-63.
