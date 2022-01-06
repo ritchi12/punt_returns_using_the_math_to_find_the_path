@@ -3,13 +3,13 @@
 
 ### Simon Fraser University Sports Analytics Group
 
-Robyn Ritchie, PhD Student | [Linkedin](https://www.linkedin.com/in/robyn-ritchie-513b491b9/)
+Robyn Ritchie, PhD Student | [Linkedin](https://www.linkedin.com/in/robyn-ritchie-513b491b9/) | Twitter: @[RR_SportsStats](https://twitter.com/RR_SportsStats)
 
 Brendan Kumagai, MSc Student | [Linkedin](https://www.linkedin.com/in/brendan-kumagai/) | Twitter: @[BrendanKumagai](https://twitter.com/BrendanKumagai)
 
 Ryker Moreau, MSc Student | [Linkedin](https://www.linkedin.com/in/ryker-moreau/) | Twitter: @[RMoreau18](https://twitter.com/RMoreau18)
 
-Elijah Cavan, MSc Student | [Linkedin](https://www.linkedin.com/in/ryker-moreau/)
+Elijah Cavan, MSc Student | [Linkedin](https://www.linkedin.com/in/elijah-cavan-msc-14b0bab1/) | Twitter: @[cavan_elijah](https://twitter.com/cavan_elijah)
 
 
 ### Submission for the 2022 NFL Big Data Bowl - Student Competition
