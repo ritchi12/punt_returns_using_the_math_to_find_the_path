@@ -1,0 +1,11 @@
+name: path_generator
+title:
+username:
+account: rr-sportsstats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6934099
+bundleId:
+url: https://rr-sportsstats.shinyapps.io/path_generator/
+when: 1662510398.23224
+lastSyncTime: 1662510398.23229
